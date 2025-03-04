@@ -1,0 +1,5 @@
+flask
+flask-sqlalchemy
+cloudinary
+python-dotenv
+gunicorn
